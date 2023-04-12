@@ -3,7 +3,7 @@ import 'package:lottie/lottie.dart';
 
 class LottieWidget extends StatelessWidget {
   const LottieWidget({super.key});
-  final String filePath = "lottieImages/login.json";
+  final String filePath = "assets/lottieImages/login.json";
   @override
   Widget build(BuildContext context) {
     return Scaffold(
